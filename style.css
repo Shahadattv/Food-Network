@@ -54,6 +54,7 @@ body {
 }
 
 .product-details {
+    height: 400px;
     width: 30%;
     margin-left: 3%;
     margin-right: 3%;
